@@ -1,1 +1,8 @@
 Zmiana03
+ HEAD
+naprawa
+
+Dodano Asystenta
+Uproszczenie interfesju graficznego
+ easierApp
+Zmiana08

@@ -2,3 +2,11 @@ Zmiana01
 Zmiana02
 Zmiana03
 Zmiana99
+ HEAD
+naprawa
+
+Dodano Asystenta
+Uproszczenie interfesju graficznego
+easierApp
+
+Zmiana09

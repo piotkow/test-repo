@@ -1,1 +1,9 @@
 Zmiana02
+Zmiana04
+ HEAD
+naprawa
+
+Dodano Asystenta
+Uproszczenie interfesju graficznego
+easierApp
+Zmiana09
