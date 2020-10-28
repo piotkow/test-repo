@@ -8,3 +8,4 @@ Uproszczenie interfesju graficznego
 Zmiana08
 Zmiana10
 Zmiana12
+Zmiana13
